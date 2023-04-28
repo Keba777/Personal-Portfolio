@@ -9,7 +9,7 @@ Features
   -Contact section that allows visitors to contact me.
 
 License
-  -This project is licensed under the terms of the MIT license. See the LICENSE (https://chat.openai.com/LICENSE) file for details.
+  -This project is licensed under the terms of the MIT license. See the LICENSE (https://github.com/Keba777/Personal-Portfolio/blob/main/LICENSE) file for details.
 
 Technologies Used
   -HTML5
